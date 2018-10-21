@@ -13,5 +13,5 @@ Node.js should be installed to the machine
 5. Navigate to `http://localhost:4000/` via a web browser to view the application
 
 ## Blog Post
-To learn about Double Submit Cookies Pattern visit,  
+To learn about OAuth 2.0 Authorization Code Grant Type for Instagram visit,  
 https://hirunimirando.blogspot.com/2018/10/implementing-oauth-20-client-nodejs.html
